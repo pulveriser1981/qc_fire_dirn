@@ -3,7 +3,8 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Dart
+name: Create platforms
+run: flutter create
 
 on:
   push:
